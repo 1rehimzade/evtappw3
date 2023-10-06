@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\27\w3lasttask1\w3lasttask1\bin\Debug\net6.0\w3lasttask1.exe
+C:\Users\ASUS\OneDrive\Desktop\27\w3lasttask1\w3lasttask1\bin\Debug\net6.0\w3lasttask1.deps.json
+C:\Users\ASUS\OneDrive\Desktop\27\w3lasttask1\w3lasttask1\bin\Debug\net6.0\w3lasttask1.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\27\w3lasttask1\w3lasttask1\bin\Debug\net6.0\w3lasttask1.dll
+C:\Users\ASUS\OneDrive\Desktop\27\w3lasttask1\w3lasttask1\bin\Debug\net6.0\w3lasttask1.pdb
+C:\Users\ASUS\OneDrive\Desktop\27\w3lasttask1\w3lasttask1\obj\Debug\net6.0\w3lasttask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\27\w3lasttask1\w3lasttask1\obj\Debug\net6.0\w3lasttask1.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\27\w3lasttask1\w3lasttask1\obj\Debug\net6.0\w3lasttask1.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\27\w3lasttask1\w3lasttask1\obj\Debug\net6.0\w3lasttask1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\27\w3lasttask1\w3lasttask1\obj\Debug\net6.0\w3lasttask1.dll
+C:\Users\ASUS\OneDrive\Desktop\27\w3lasttask1\w3lasttask1\obj\Debug\net6.0\refint\w3lasttask1.dll
+C:\Users\ASUS\OneDrive\Desktop\27\w3lasttask1\w3lasttask1\obj\Debug\net6.0\w3lasttask1.pdb
+C:\Users\ASUS\OneDrive\Desktop\27\w3lasttask1\w3lasttask1\obj\Debug\net6.0\w3lasttask1.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\27\w3lasttask1\w3lasttask1\obj\Debug\net6.0\ref\w3lasttask1.dll
